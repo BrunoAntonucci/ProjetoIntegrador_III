@@ -9,4 +9,4 @@ populacao = Populacao(TAMANHO_POPULACAO, TAMANHO_INDIVIDUO)
 populacao.gerarPopulacao()
 populacao.calcularFitness()
 populacao.fazerMutacao()
-
+print ("hello word")
